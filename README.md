@@ -1,7 +1,5 @@
 # SpotifySignIn - Spotify-inspired Sign-In/Sign-Up View
 
-![Spotify](https://github.com/RedisMadani/SpotifySignIn/assets/136177376/17e0aee7-d421-48e8-9f95-f59c469b1e2c)
-
 ## Overview
 SpotifySignIn is a Swift project that closely mimics the sign-in/sign-up view of Spotify. It includes features such as a video background, carousel text, and animated login page. This project aims to replicate the visually appealing and interactive user experience found in the Spotify app.
 

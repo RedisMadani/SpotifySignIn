@@ -13,7 +13,7 @@ SpotifySignIn is a Swift project that closely mimics the sign-in/sign-up view of
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/RedisMadani/SpotifySignIn.git
+git clone https://github.com/dxktw/SpotifySignIn.git
 ```
 
 2. Open the project in Xcode.
